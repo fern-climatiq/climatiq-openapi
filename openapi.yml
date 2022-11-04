@@ -1,7 +1,7 @@
 openapi: 3.0.1
 info:
   title: api
-  version: 0.0.5
+  version: 0.0.6
 paths:
   /classifications/estimate:
     post:
